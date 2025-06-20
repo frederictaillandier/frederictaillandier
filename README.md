@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/56ae8bcc-2200-474f-833f-89ff2c0f2198" alt="rust" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/e0ca19df-e26c-42b9-a8fe-17e9435b3c41" alt="rust" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/a16a86fb-d8a0-4aca-87d3-01e869c595c6" alt="python" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/78aa97a2-e416-4001-83b4-90ac28c2a652" alt="cpp" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/74dd5323-cb42-4436-996b-fdc74446e96b" alt="linux" width="50" height="50">
